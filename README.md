@@ -1,6 +1,6 @@
 # CustomKillmark CrossFire Vietnam
 # Notice:
-- Killmark AngelicBeast doesn't look like the real effect.
+- Killmark AngelicBeast and DemonicBeast doesn't look like the real effect.
 - Killmark RankMatch and GUANYU only have multikill.
-# Download:
+# Download: 
 https://bit.ly/nta-customkillmark

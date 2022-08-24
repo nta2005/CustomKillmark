@@ -2,11 +2,9 @@
 
 # Notice:
 
-- Killmark AngelicBeast, DemonicBeast, M82A1_AngelicBeast and M82A1_DemonicBeast
-  doesn't look like the real effect.
-- Killmark RankMatch and GUANYU only have multikill.
+- Killmark `AngelicBeast`, `DemonicBeast`, `M82A1_AngelicBeast` and `M82A1_DemonicBeast` <br/> doesn't look like the real effect.
+- Killmark `RankMatch` and `GUANYU` only have multikill.
 
 # Instruction:
 
-Copy 'rez' folder in the killmark folder you want to install
-and overwrite it in your 'CrossFire' install folder.
+Copy `rez` folder in the killmark folder you want to install and overwrite it in your `CrossFire` install folder.

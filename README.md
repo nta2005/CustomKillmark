@@ -8,3 +8,5 @@
 # Instruction:
 
 Copy `rez` folder in the killmark folder you want to install and overwrite it in your `CrossFire` install folder.
+
+# Last Update: 07/09/2022

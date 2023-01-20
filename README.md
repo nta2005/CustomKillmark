@@ -11,4 +11,4 @@ Copy `rez` folder in the killmark folder you want to install and overwrite it in
 
 # Last Update:
 
-Update in `20/01/2022` applies to version `1440`
+Update in `20/01/2023` applies to version `1440`

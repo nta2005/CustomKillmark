@@ -605,7 +605,7 @@ IMAGE ImageDummy41
 -WIDTH 158
 -HEIGHT 158
 -HIDE TRUE
---TEX_PATH     "UI\Mark\badge_headshot_VVIP.png"
+--TEX_PATH     "UI\Mark\CustomKillmark\Nightmare Killmark\badge_headshot.png"
 --USE_ALPHA     FALSE
 --TRANSPARENCY 0
 -END
@@ -617,7 +617,7 @@ IMAGE ImageDummy42
 -WIDTH 158
 -HEIGHT 158
 -HIDE TRUE
---TEX_PATH     "UI\Mark\badge_headshot_gold_VVIP.png"
+--TEX_PATH     "UI\Mark\CustomKillmark\Nightmare Killmark\badge_headshot_gold.png"
 --USE_ALPHA     FALSE
 --TRANSPARENCY 0
 -END

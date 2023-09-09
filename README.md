@@ -13,6 +13,4 @@ Copy `rez` folder in the killmark folder you want to install and overwrite it in
 
 Update in `09/09/2023` based on version `1465`
 
-Compatible with version `1465`
-
 # [Download](https://github.com/nta2005/CustomKillmark/releases/download/latest/CustomKillmark.zip)

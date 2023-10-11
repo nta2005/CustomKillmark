@@ -2,7 +2,7 @@
 
 # Notice:
 
-- Killmark `AngelicBeast`, `DemonicBeast`, `M82A1_AngelicBeast` and `M82A1_DemonicBeast` <br/> doesn't look like the real effect.
+- Killmark `AngelicBeast`, `DemonicBeast`, `M82A1_AngelicBeast`, `M82A1_DemonicBeast` and `ChampQ9` <br/> doesn't look like the real effect.
 - Killmark `RankMatch` and `GUANYU` only have multikill.
 
 # Instruction:

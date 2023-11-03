@@ -2,8 +2,17 @@
 
 # Notice:
 
-- Killmark `AngelicBeast`, `DemonicBeast`, `M82A1_AngelicBeast`, `M82A1_DemonicBeast` and `ChampQ9` <br/> doesn't look like the real effect.
-- Killmark `RankMatch` and `GUANYU` only have multikill.
+-  Killmarks doesn't look like the real effect:
+
+   -  `AngelicBeast`
+   -  `DemonicBeast`
+   -  `M82A1_AngelicBeast`
+   -  `M82A1_DemonicBeast`
+   -  `ChampQ9`
+
+-  Killmarks only have multikill:
+   -  `RankMatch`
+   -  `GUANYU`
 
 # Instruction:
 
@@ -12,5 +21,7 @@ Copy `rez` folder in the killmark folder you want to install and overwrite it in
 # Last Update:
 
 Update in `06/10/2023` based on version `1469`
+
+Compatible with version `1470`
 
 # [Download](https://github.com/nta2005/CustomKillmark/releases/download/latest/CustomKillmark.zip)

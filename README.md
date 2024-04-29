@@ -1,6 +1,6 @@
 # CustomKillmark CrossFire Vietnam
 
-# Notice:
+## Notice
 
 - Killmarks doesn't look like the real effect:
 
@@ -14,12 +14,12 @@
   - `RankMatch`
   - `GUANYU`
 
-# Instruction:
+## Instruction
 
 Copy `rez` folder in the killmark folder you want to install and overwrite it in your `CrossFire` install folder.
 
-# Last Update:
+## Last Update
 
-Update in `29/03/2024` based on version `1491`
+Update in `29/04/2024` based on version `1496`
 
-# [Download](https://github.com/nta2005/CustomKillmark/releases/download/latest/CustomKillmark.zip)
+## [Download](https://github.com/nta2005/CustomKillmark/releases/download/latest/CustomKillmark.zip)

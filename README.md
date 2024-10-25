@@ -68,7 +68,7 @@ Update in `29/09/2024` based on version `1512`
 |**RankMatch-Platinum**|![RankMatch-Platinum](https://github.com/nta2005/CustomKillmark/blob/master/RankMatch/Platinum/KillMarkPlatinum_multikill.PNG)|
 |**RankMatch-Silver**|![RankMatch-Silver](https://github.com/nta2005/CustomKillmark/blob/master/RankMatch/Silver/KillMarkSilver_multikill.PNG)|
 |**RankMatch-TOP**|![RankMatch-TOP](https://github.com/nta2005/CustomKillmark/blob/master/RankMatch/TOP/KillMarkTOP_multikill.PNG)|
-|**RankMatch-WinStreak**|![RankMatch-WinStreak](https://github.com/nta2005/CustomKillmark/blob/master/RankMatch/WinStreak/KillMarkWinStreak_multikill.PNG)|
+|**RankMatch-WinStreak**|![RankMatch-WinStreak](https://github.com/nta2005/CustomKillmark/blob/master/RankMatch/WinStreak/WinStreak_multikill.PNG)|
 |**Rankmach19Killmark**|![Rankmach19Killmark](https://github.com/nta2005/CustomKillmark/blob/master/Rankmach19Killmark/Rankmach19Killmark.PNG)|
 |**Rankmach19Killmark2**|![Rankmach19Killmark2](https://github.com/nta2005/CustomKillmark/blob/master/Rankmach19Killmark2/Rankmach19Killmark2.PNG)|
 |**Rankmach26Killmark**|![Rankmach26Killmark](https://github.com/nta2005/CustomKillmark/blob/master/Rankmach26Killmark/badge_multi4.PNG)|

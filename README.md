@@ -16,7 +16,7 @@
 
 ## Instruction
 
-Copy `rez` folder in the killmark folder you want to install and overwrite it in your `CrossFire` install folder.
+Copy `rez` folder inside the `#CustomKillmark/<Your mark>` folder and overwrite it in your `CrossFire` install folder.
 
 ## Last Update
 

@@ -10,13 +10,13 @@
   - `M82A1_DemonicBeast`
   - `ChampQ9`
 
-- Killmarks only have multikill:
+- Killmarks only have multi-kill:
   - `RankMatch`
   - `GUANYU`
 
 ## Instruction
 
-Copy `rez` folder inside the `#CustomKillmark/<Your mark>` folder and overwrite it in your `CrossFire` install folder.
+Copy the `rez` folder inside the `#CustomKillmark/<your-mark>` folder and overwrite it in your `CrossFire` install folder.
 
 ## Last Update
 

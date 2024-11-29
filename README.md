@@ -20,7 +20,7 @@ Copy `rez` folder inside the `#CustomKillmark/<Your mark>` folder and overwrite 
 
 ## Last Update
 
-Update in `29/09/2024` based on version `1512`
+Update in `29/11/2024` based on version `1519`
 
 ## Download
 
@@ -53,6 +53,7 @@ Update in `29/09/2024` based on version `1512`
 |**Halloween1**|![Halloween1](./%23Preview/halloween1.PNG)|
 |**Halloween2**|![Halloween2](./%23Preview/halloween2.PNG)|
 |**Hero**|![Hero](./%23Preview/hero.PNG)|
+|**HumanHeroTerminator**|![HumanHeroTerminator](./%23Preview/human_hero_terminator.PNG)|
 |**IronBeast2**|![IronBeast2](./%23Preview/ironbeast2.PNG)|
 |**IronBeast2NG**|![IronBeast2NG](./%23Preview/ironbeast2ng.PNG)|
 |**Kar98kSatellite**|![Kar98kSatellite](./%23Preview/kar98ksatellite.PNG)|
@@ -76,6 +77,7 @@ Update in `29/09/2024` based on version `1512`
 |**Rankmach26_3**|![Rankmach26_3](./%23Preview/rankmach26_3.PNG)|
 |**ReactiveArmorSET**|![ReactiveArmorSET](./%23Preview/reactivearmorset.PNG)|
 |**RedNano**|![RedNano](./%23Preview/rednano.PNG)|
+|**SubtlyHero**|![SubtlyHero](./%23Preview/subtly_hero.PNG)|
 |**Summer**|![Summer](./%23Preview/summer.PNG)|
 |**Summer2**|![Summer2](./%23Preview/summer2.PNG)|
 |**TianShen**|![TianShen](./%23Preview/tianshen.PNG)|

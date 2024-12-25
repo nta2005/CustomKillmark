@@ -20,7 +20,7 @@ Copy the `rez` folder inside the `#CustomKillmark/<your-mark>` folder and overwr
 
 ## Last Update
 
-Update in `29/11/2024` based on version `1519`
+Update in `25/12/2024` based on version `1523`
 
 ## Download
 
@@ -81,6 +81,7 @@ Update in `29/11/2024` based on version `1519`
 |**Summer**|![Summer](./%23Preview/summer.PNG)|
 |**Summer2**|![Summer2](./%23Preview/summer2.PNG)|
 |**TianShen**|![TianShen](./%23Preview/tianshen.PNG)|
+|**TropicalOcean**|![TianShen](./%23Preview/tropical_ocean.PNG)|
 |**VIPVN**|![VIPVN](./%23Preview/vipvn.PNG)|
 |**ValorBeast**|![ValorBeast](./%23Preview/valorbeast.PNG)|
 |**christmas1**|![christmas1](./%23Preview/christmas1.PNG)|

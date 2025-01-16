@@ -366,11 +366,11 @@ WINDOW_BUTTON ButtonBack
 --KEEPPRESSED FALSE
 -END
 
-WINDOW_IMAGE ImageAgex
+WINDOW_IMAGE ImageAge
 -POSITIONX 0
 -POSITIONY 0
--WIDTH 0
--HEIGHT 0 
+-WIDTH 32
+-HEIGHT 16 
 --TEX_PATH "UI\UI_GNB\Age_18.png"
 --USE_ALPHA FALSE
 --TRANSPARENCY 0
@@ -420,4 +420,28 @@ WINDOW_SPRITE ImageNewGachaNotiy
 --MAXSPRITE_COUNT 13
 -END
 
+WINDOW_BUTTON BtnMysteryShopBanner
+-POSITIONX 662
+-POSITIONY 42
+-WIDTH 168
+-HEIGHT 27
+-CHANGERESOLUTION 8
+--TEX_UP "UI\UI_MysteryShop\Tooltip_MysteryShop.png"
+--TEX_DOWN "UI\UI_MysteryShop\Tooltip_MysteryShop.png"
+--TEX_FOCUSED "UI\UI_MysteryShop\Tooltip_MysteryShop.png"
+--TEX_DISABLED "UI\UI_MysteryShop\Tooltip_MysteryShop_DIS.png"
+--KEEPPRESSED FALSE
+-END
 
+WINDOW_BUTTON BtnMysteryShopBanner
+-POSITIONX 662
+-POSITIONY 42
+-WIDTH 168
+-HEIGHT 27
+-CHANGERESOLUTION 8
+--TEX_UP "UI\UI_MysteryShop\Tooltip_MysteryShop.png"
+--TEX_DOWN "UI\UI_MysteryShop\Tooltip_MysteryShop.png"
+--TEX_FOCUSED "UI\UI_MysteryShop\Tooltip_MysteryShop.png"
+--TEX_DISABLED "UI\UI_MysteryShop\Tooltip_MysteryShop_DIS.png"
+--KEEPPRESSED FALSE
+-END

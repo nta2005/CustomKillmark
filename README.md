@@ -20,7 +20,7 @@ Copy the `rez` folder inside the `#CustomKillmark/<your-mark>` folder and overwr
 
 ## Last Update
 
-Update in `25/12/2024` based on version `1523`
+Update in `16/01/2025` based on version `1525`
 
 ## Download
 
@@ -42,6 +42,7 @@ Update in `25/12/2024` based on version `1523`
 |**BornBeast2**|![BornBeast2](%23Preview/bornbeast2.PNG)|
 |**BornBeast2NG**|![BornBeast2NG](%23Preview/bornbeast2ng.PNG)|
 |**CFS_2019**|![CFS_2019](%23Preview/cfs_2019.PNG)|
+|**CloudDragon**|![CloudDragon](%23Preview/cloud_dragon.PNG)|
 |**ChampQ9**|![ChampQ9](%23Preview/champ_q9.PNG) ![Sprite](%23Preview/champ_q9_sprite.PNG)|
 |**DemonicBeast**|![DemonicBeast](%23Preview/demonic_beast.PNG) ![Sprite](%23Preview/demonic_beast_sprite.PNG)|
 |**Disco**|![Disco](%23Preview/disco.PNG)|

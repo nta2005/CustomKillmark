@@ -20,7 +20,7 @@ Copy the `rez` folder inside the `#CustomKillmark/<your-mark>` folder and overwr
 
 ## Last Update
 
-Update in `27/03/2025` based on version `1533`
+Update in `08/05/2025` based on version `1537`
 
 ## Download
 
@@ -60,6 +60,7 @@ Update in `27/03/2025` based on version `1533`
 |**Kar98kSatellite**|![Kar98kSatellite](%23Preview/kar98ksatellite.PNG)|
 |**M82A1_AngelicBeast**|![M82A1_AngelicBeast](%23Preview/m82a1_angelicbeast.PNG) ![Sprite](%23Preview/m82a1_angelicbeast_sprite.PNG)|
 |**M82A1_DemonicBeast**|![M82A1_DemonicBeast](%23Preview/m82a1_demonicbeast.PNG) ![Sprite](%23Preview/m82a1_demonicbeast_sprite.PNG)|
+|**Medusa**|![Medusa](%23Preview/medusa.PNG)|
 |**NewYear**|![NewYear](%23Preview/newyear.PNG)|
 |**Nightmare**|![Nightmare](%23Preview/nightmare.PNG)|
 |**RankMatch-Diamond**|![RankMatch-Diamond](%23Preview/rankmatch_diamond.PNG)|
@@ -73,9 +74,12 @@ Update in `27/03/2025` based on version `1533`
 |**RankMatch-WinStreak**|![RankMatch-WinStreak](%23Preview/rankmatch_winstreak.PNG)|
 |**Rankmach19**|![Rankmach19](%23Preview/rankmach19.PNG)|
 |**Rankmach19_2**|![Rankmach19_2](%23Preview/rankmach19_2.PNG)|
-|**Rankmach26**|![Rankmach26](%23Preview/rankmach26.PNG)|
-|**Rankmach26_2**|![Rankmach26_2](%23Preview/rankmach26_2.PNG)|
-|**Rankmach26_3**|![Rankmach26_3](%23Preview/rankmach26_3.PNG)|
+|**Rankmach27**|![Rankmach27](%23Preview/rankmach27.PNG)|
+|**Rankmach27_2**|![Rankmach27_2](%23Preview/rankmach27_2.PNG)|
+|**Rankmach27_3**|![Rankmach27_3](%23Preview/rankmach27_3.PNG)|
+|**Rankmach29**|![Rankmach29](%23Preview/rankmach29.PNG)|
+|**Rankmach29_2**|![Rankmach29_2](%23Preview/rankmach29_2.PNG)|
+|**Rankmach29_3**|![Rankmach29_3](%23Preview/rankmach29_3.PNG)|
 |**ReactiveArmorSET**|![ReactiveArmorSET](%23Preview/reactivearmorset.PNG)|
 |**RedNano**|![RedNano](%23Preview/rednano.PNG)|
 |**SubtlyHero**|![SubtlyHero](%23Preview/subtly_hero.PNG)|

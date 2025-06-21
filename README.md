@@ -20,7 +20,7 @@ Copy the `rez` folder inside the `#CustomKillmark/<your-mark>` folder and overwr
 
 ## Last Update
 
-Update in `08/05/2025` based on version `1537`
+Update in `21/06/2025` based on version `1544`
 
 ## Download
 
@@ -38,6 +38,7 @@ Update in `08/05/2025` based on version `1537`
 |**AncientDragon**|![AncientDragon](%23Preview/ancient_dragon.PNG)|
 |**AngelicBeast**|![AngelicBeast](%23Preview/angelic_beast.PNG) ![Sprite](%23Preview/angelic_beast_sprite.PNG)|
 |**ArmoredBeast**|![ArmoredBeast](%23Preview/armored_beast.PNG)|
+|**BlazeHero**|![BlazeHero](%23Preview/blaze_hero.PNG)|
 |**BlueNeon**|![BlueNeon](%23Preview/blue_neon.PNG)|
 |**BornBeast2**|![BornBeast2](%23Preview/bornbeast2.PNG)|
 |**BornBeast2NG**|![BornBeast2NG](%23Preview/bornbeast2ng.PNG)|
@@ -89,6 +90,7 @@ Update in `08/05/2025` based on version `1537`
 |**TropicalOcean**|![TianShen](%23Preview/tropical_ocean.PNG)|
 |**VIPVN**|![VIPVN](%23Preview/vipvn.PNG)|
 |**ValorBeast**|![ValorBeast](%23Preview/valorbeast.PNG)|
+|**ViperTerminator**|![ViperTerminator](%23Preview/viper_terminator.PNG)|
 |**christmas1**|![christmas1](%23Preview/christmas1.PNG)|
 |**vvip**|![vvip](%23Preview/vvip.PNG)|
 <!-- </details> -->

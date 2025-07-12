@@ -20,7 +20,7 @@ Copy the `rez` folder inside the `#CustomKillmark/<your-mark>` folder and overwr
 
 ## Last Update
 
-Update in `21/06/2025` based on version `1544`
+Update in `12/07/2025` based on version `1546`
 
 ## Download
 

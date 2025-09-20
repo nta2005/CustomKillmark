@@ -20,7 +20,7 @@ Copy the `rez` folder inside the `#CustomKillmark/<your-mark>` folder and overwr
 
 ## Last Update
 
-Update in `12/07/2025` based on version `1546`
+Update in `20/09/2025` based on version `1556`
 
 ## Download
 
@@ -37,6 +37,7 @@ Update in `12/07/2025` based on version `1546`
 |**15th Anniversary**|![15th_anniversary](%23Preview/15th_anniversary.PNG)|
 |**AncientDragon**|![AncientDragon](%23Preview/ancient_dragon.PNG)|
 |**AngelicBeast**|![AngelicBeast](%23Preview/angelic_beast.PNG) ![Sprite](%23Preview/angelic_beast_sprite.PNG)|
+|**Aracde**|![AngelicBeast](%23Preview/aracde.PNG)|
 |**ArmoredBeast**|![ArmoredBeast](%23Preview/armored_beast.PNG)|
 |**BlazeHero**|![BlazeHero](%23Preview/blaze_hero.PNG)|
 |**BlueNeon**|![BlueNeon](%23Preview/blue_neon.PNG)|

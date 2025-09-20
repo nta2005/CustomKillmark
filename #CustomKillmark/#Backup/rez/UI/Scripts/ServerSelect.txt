@@ -2005,10 +2005,18 @@ IMAGE ImageSVLock34
 -END
 
 BUTTON ButtonRankMatch
--POSITIONX 297
--POSITIONY 518
+-POSITIONX 270
+-POSITIONY 528
 -WIDTH 100
 -HEIGHT 37
+-TEX_BOUNDARY_WIDTH 100
+-TEX_BOUNDARY_HEIGHT 37
+--UV_CLAMP TRUE
+--USE_ATLAS TRUE
+--ATLAS_POSX 1
+--ATLAS_POSY 0
+--ATLAS_WIDTH 98
+--ATLAS_HEIGHT 37
 --TEX_UP "UI\UI_Server\RankMatchUp.png"
 --TEX_DOWN "UI\UI_Server\RankMatchDown.png"
 --TEX_FOCUSED "UI\UI_Server\RankMatchFocus.png"
@@ -2017,11 +2025,32 @@ BUTTON ButtonRankMatch
 --KEEPPRESSED FALSE
 -END
 
+//BUTTON ButtonBattleRoyal
+//-POSITIONX 396
+//-POSITIONY 518
+//-WIDTH 100
+//-HEIGHT 37
+//--TEX_UP "UI\UI_Server\Battleroyal_Up.png"
+//--TEX_DOWN "UI\UI_Server\Battleroyal_Down.png"
+//--TEX_FOCUSED "UI\UI_Server\Battleroyal_Focus.png"
+//--TEX_DISABLED "UI\UI_Server\Battleroyal_Dis.png"
+//--TEX_LED "UI\UI_Server\Battleroyal_LED.png"
+//--KEEPPRESSED FALSE
+//-END
+
 BUTTON ButtonElitePVE
--POSITIONX 396
--POSITIONY 518
+-POSITIONX 371
+-POSITIONY 528
 -WIDTH 100
 -HEIGHT 37
+-TEX_BOUNDARY_WIDTH 100
+-TEX_BOUNDARY_HEIGHT 37
+--UV_CLAMP TRUE
+--USE_ATLAS TRUE
+--ATLAS_POSX 1
+--ATLAS_POSY 0
+--ATLAS_WIDTH 98
+--ATLAS_HEIGHT 37
 --TEX_UP "UI\UI_Server\ElitePVE_Up.png"
 --TEX_DOWN "UI\UI_Server\ElitePVE_Down.png"
 --TEX_FOCUSED "UI\UI_Server\ElitePVE_Focus.png"
@@ -2030,15 +2059,37 @@ BUTTON ButtonElitePVE
 --KEEPPRESSED FALSE
 -END
 
-#IMAGE ImageElitePVEOpenTooltip
-#-POSITIONX 282
-#-POSITIONY 440
-#-WIDTH 326
-#-HEIGHT 85
-#--TEX_PATH     "UI\UI_MatchMenuPopup\ElitePVE\SeasonOpenTooltip.png"
-#--USE_ALPHA     FALSE
-#--TRANSPARENCY 0
-#-END
+BUTTON ButtonFairMatch
+-POSITIONX 0
+-POSITIONY 0
+-WIDTH 0
+-HEIGHT 0
+--TEX_UP       ""
+--TEX_DOWN     ""
+--TEX_FOCUSED  ""
+--TEX_DISABLED ""
+--KEEPPRESSED FALSE
+-END
+
+BUTTON ButtonShortCut
+-POSITIONX 472
+-POSITIONY 528
+-WIDTH 100
+-HEIGHT 37
+-TEX_BOUNDARY_WIDTH 100
+-TEX_BOUNDARY_HEIGHT 37
+--UV_CLAMP TRUE
+--USE_ATLAS TRUE
+--ATLAS_POSX 1
+--ATLAS_POSY 0
+--ATLAS_WIDTH 98
+--ATLAS_HEIGHT 37
+--TEX_UP "UI\UI_Server\ShortcutUP.png"
+--TEX_DOWN "UI\UI_Server\ShortcutDown.png"
+--TEX_FOCUSED "UI\UI_Server\ShortcutFOCUS.png"
+--TEX_DISABLED ""
+--KEEPPRESSED FALSE
+-END
 
 IMAGE IMG_AutoMatchToolTip_ON
 -POSITIONX 337
@@ -2061,37 +2112,53 @@ IMAGE IMG_AutoMatchToolTip_OFF
 -END
 
 BUTTON ButtonGlobalQuickJoin
--POSITIONX 564
--POSITIONY 518
+-POSITIONX 599
+-POSITIONY 528
 -WIDTH 90
 -HEIGHT 37
---TEX_UP       "UI\UI_Lobby\Quickjoinup.png"
---TEX_DOWN     "UI\UI_Lobby\QuickjoinDown.png"
---TEX_FOCUSED  "UI\UI_Lobby\QuickjoinFocus.png"
---TEX_DISABLED "UI\UI_Lobby\QuickjoinDisable.png"
+-TEX_BOUNDARY_WIDTH 90
+-TEX_BOUNDARY_HEIGHT 37
+--UV_CLAMP TRUE
+--USE_ATLAS TRUE
+--ATLAS_POSX 1
+--ATLAS_POSY 0
+--ATLAS_WIDTH 90
+--ATLAS_HEIGHT 37
+--TEX_UP       "UI\UI_Server\Quickjoinup.png"
+--TEX_DOWN     "UI\UI_Server\QuickjoinDown.png"
+--TEX_FOCUSED  "UI\UI_Server\QuickjoinFocus.png"
+--TEX_DISABLED "UI\UI_Server\QuickjoinDisable.png"
 --KEEPPRESSED FALSE
 -END
 
 BUTTON ButtonQuickJoinSetting
--POSITIONX 654
--POSITIONY 518
+-POSITIONX 689
+-POSITIONY 528
 -WIDTH 36
 -HEIGHT 37
---TEX_UP       "UI\UI_Lobby\QuickJoinSettingUp.png"
---TEX_DOWN     "UI\UI_Lobby\QuickJoinSettingDown.png"
---TEX_FOCUSED  "UI\UI_Lobby\QuickJoinSettingFocus.png"
---TEX_DISABLED "UI\UI_Lobby\QuickJoinSettingDis.png"
+-TEX_BOUNDARY_WIDTH 36
+-TEX_BOUNDARY_HEIGHT 37
+--UV_CLAMP TRUE
+--USE_ATLAS TRUE
+--ATLAS_POSX 0
+--ATLAS_POSY 0
+--ATLAS_WIDTH 35
+--ATLAS_HEIGHT 37
+--TEX_UP       "UI\UI_Server\QuickJoinSettingUp.png"
+--TEX_DOWN     "UI\UI_Server\QuickJoinSettingDown.png"
+--TEX_FOCUSED  "UI\UI_Server\QuickJoinSettingFocus.png"
+--TEX_DISABLED "UI\UI_Server\QuickJoinSettingDis.png"
 --KEEPPRESSED FALSE
 -END
 
 BUTTON ButtonEnter
--POSITIONX 693
--POSITIONY 518
--WIDTH 87
+-POSITIONX 725
+-POSITIONY 528
+-WIDTH 60
 -HEIGHT 37
---TEX_UP       "UI\UI_Lobby\RoomEnterup.png"
---TEX_DOWN     "UI\UI_Lobby\RoomEnterDown.png"
---TEX_FOCUSED  "UI\UI_Lobby\RoomEnterFocus.png"
+--TEX_UP       "UI\UI_Server\RoomEnterup.png"
+--TEX_DOWN     "UI\UI_Server\RoomEnterDown.png"
+--TEX_FOCUSED  "UI\UI_Server\RoomEnterFocus.png"
 --TEX_DISABLED ""
 --KEEPPRESSED FALSE
 -END
@@ -2102,6 +2169,10 @@ BUTTON ButtonExit
 -WIDTH 44
 -HEIGHT 43
 -CHANGERESOLUTION 8
+--CLICK_POSITIONX 1560
+--CLICK_POSITIONY 1
+--CLICK_WIDTH 36
+--CLICK_HEIGHT 38
 --TEX_UP "UI\UI_LobbyRenewal\TopMenu\Exit_Up.png"
 --TEX_DOWN "UI\UI_LobbyRenewal\TopMenu\Exit_Down.png"
 --TEX_FOCUSED "UI\UI_LobbyRenewal\TopMenu\Exit_Focus.png"
@@ -2113,7 +2184,7 @@ SCROLLBAR ScrollBarServer
 --BG_POS_X 768
 --BG_POS_Y 126
 --BG_WIDTH 15
---BG_HEIGHT 364
+--BG_HEIGHT 358
 --BAR_POS_X 768
 --BAR_WIDTH 15
 --BAR_HEIGHT 111
@@ -2122,7 +2193,7 @@ SCROLLBAR ScrollBarServer
 --DEC_WIDTH 15
 --DEC_HEIGHT 15
 --INC_POS_X 768
---INC_POS_Y 490
+--INC_POS_Y 485
 --INC_WIDTH 15
 --INC_HEIGHT 15
 --BAR_SRC_WIDTH 0
@@ -2139,10 +2210,9 @@ SCROLLBAR ScrollBarServer
 --NOT_SCALED_AMOUNT 0
 -END
 
-
 IMAGE ImageGlobalQuickJoinToolTip
--POSITIONX 464
--POSITIONY 414
+-POSITIONX 476
+-POSITIONY 427
 -WIDTH 326
 -HEIGHT 107
 --TEX_PATH     "UI\UI_Lobby\GlobalQuickJoin\QuickJoinToolTip.png"

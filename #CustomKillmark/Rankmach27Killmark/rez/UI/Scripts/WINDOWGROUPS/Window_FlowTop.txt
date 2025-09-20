@@ -419,3 +419,20 @@ WINDOW_SPRITE ImageNewGachaNotiy
 --PLAYOPTION 0
 --MAXSPRITE_COUNT 13
 -END
+
+WINDOW_BUTTON BtnMysteryShopBanner
+-POSITIONX 662
+-POSITIONY 42
+-WIDTH 168
+-HEIGHT 27
+-CHANGERESOLUTION 8
+--TEX_UP "UI\UI_MysteryShop\Tooltip_MysteryShop.png"
+--TEX_DOWN "UI\UI_MysteryShop\Tooltip_MysteryShop_Down.png"
+--TEX_FOCUSED "UI\UI_MysteryShop\Tooltip_MysteryShop_Focus.png"
+--TEX_DISABLED "UI\UI_MysteryShop\Tooltip_MysteryShop_DIS.png"
+--KEEPPRESSED FALSE
+--CLICK_POSITIONX 662
+--CLICK_POSITIONY 46
+--CLICK_WIDTH 168
+--CLICK_HEIGHT 19
+-END

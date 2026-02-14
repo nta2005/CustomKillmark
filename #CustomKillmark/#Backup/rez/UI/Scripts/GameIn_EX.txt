@@ -1567,7 +1567,7 @@ IMAGE ImageDummy128
 -WIDTH 156
 -HEIGHT 156
 -HIDE TRUE
---TEX_PATH     ""
+--TEX_PATH     "UI\Mark\Skuld_Proto_KillMark.png"
 --USE_ALPHA     FALSE
 --TRANSPARENCY 0
 -END

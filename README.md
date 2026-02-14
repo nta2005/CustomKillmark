@@ -20,7 +20,7 @@ Copy the `rez` folder inside the `#CustomKillmark/<your-mark>` folder and overwr
 
 ## Last Update
 
-Update in `20/09/2025` based on version `1556`
+Update in `14/02/2026` based on version `1574`
 
 ## Download
 
@@ -49,6 +49,7 @@ Update in `20/09/2025` based on version `1556`
 |**DemonicBeast**|![DemonicBeast](%23Preview/demonic_beast.PNG) ![Sprite](%23Preview/demonic_beast_sprite.PNG)|
 |**Disco**|![Disco](%23Preview/disco.PNG)|
 |**Dominator**|![Dominator](%23Preview/dominator.PNG)|
+|**FH_Veteran**|![FH_Veteran](%23Preview/fh_veteran.PNG)|
 |**FuryBeast**|![FuryBeast](%23Preview/furybeast.PNG)|
 |**FuryBeastNG**|![FuryBeastNG](%23Preview/furybeastng.PNG)|
 |**GUANYU**|![GUANYU](%23Preview/guanyu.PNG)|
@@ -56,6 +57,7 @@ Update in `20/09/2025` based on version `1556`
 |**Halloween1**|![Halloween1](%23Preview/halloween1.PNG)|
 |**Halloween2**|![Halloween2](%23Preview/halloween2.PNG)|
 |**Hero**|![Hero](%23Preview/hero.PNG)|
+|**HeroClassic**|![HeroClassic](%23Preview/hero_classic.PNG)|
 |**HumanHeroTerminator**|![HumanHeroTerminator](%23Preview/human_hero_terminator.PNG)|
 |**IronBeast2**|![IronBeast2](%23Preview/ironbeast2.PNG)|
 |**IronBeast2NG**|![IronBeast2NG](%23Preview/ironbeast2ng.PNG)|

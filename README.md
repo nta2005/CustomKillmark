@@ -20,7 +20,7 @@ Copy the `rez` folder inside the `#CustomKillmark/<your-mark>` folder and overwr
 
 ## Last Update
 
-Update in `14/02/2026` based on version `1574`
+Update in `26/04/2026` based on version `1583`
 
 ## Download
 
@@ -49,6 +49,7 @@ Update in `14/02/2026` based on version `1574`
 |**DemonicBeast**|![DemonicBeast](%23Preview/demonic_beast.PNG) ![Sprite](%23Preview/demonic_beast_sprite.PNG)|
 |**Disco**|![Disco](%23Preview/disco.PNG)|
 |**Dominator**|![Dominator](%23Preview/dominator.PNG)|
+|**DreadTerminator**|![DreadTerminator](%23Preview/dread_terminator.PNG)|
 |**FH_Veteran**|![FH_Veteran](%23Preview/fh_veteran.PNG)|
 |**FuryBeast**|![FuryBeast](%23Preview/furybeast.PNG)|
 |**FuryBeastNG**|![FuryBeastNG](%23Preview/furybeastng.PNG)|
